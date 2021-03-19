@@ -1,1 +1,2 @@
-# DUST-BIN-GAME
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
